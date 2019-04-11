@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#myvideo,#glwrap,.imgBox{
+    float: left;
+    margin:20px;
+}
+.imgBox{
+    width: 304px;
+    height: 540px;
+}
+.imgBox img{
+    width: 100%;
+    height: 100%;
+}
+.btnBox{
+    float: left;
+    width: 100%;
+}
+button{
+    width: 100px;
+    height: 60px;
+    margin: 15px;
+}
